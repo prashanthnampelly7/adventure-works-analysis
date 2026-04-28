@@ -19,9 +19,8 @@ This project analyzes the Adventure Works dataset to derive business insights.
 - SQL Queries
 
 ## 📸 Dashboard Preview
-![Dashboard](Tableau.png)
-![Dashboard](PowerBI.png)
-![Dashboard](Excel.png)
-
+Adventure-Works-Analysis/Excel.png
+Adventure-Works-Analysis/Tableau.png
+Adventure-Works-Analysis/Excel.png
 ## 🚀 Conclusion
 This project helps understand business performance and decision-making.
